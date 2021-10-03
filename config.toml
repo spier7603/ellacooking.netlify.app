@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "ELLA"
-    homepage = "ellacooking.netlify.app"
+    homepage = "https://ellacooking.netlify.app/"
     bio = "cooking lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
